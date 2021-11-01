@@ -1,0 +1,6 @@
+flask
+sqlalchemy
+sqlalchemy_utils
+pymysql
+mysqlclient
+requests
